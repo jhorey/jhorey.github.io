@@ -50,17 +50,17 @@ table {
 body {
   font-size: 1em;
   line-height: 1.5; 
-  background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  background: white;
+  font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   color: #6d6d6d;
 }
 
 a {
-  color: #d5000d;
+  color: #362;
 }
 a:hover {
-  color: #c5000c;
+  color: #28511B;
 }
 
 header {
@@ -75,12 +75,14 @@ header h1 {
   font-size: 48px;
   color: #303030;
   line-height: 1.5;
+  margin-top: 22px;
+  margin-bottom: 22px;
 }
 
 .content {
   font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight:lighter;
-  font-size: 22px;
+  font-size: 21px;
   color: #303030;
   line-height: 1.5;
 }
@@ -247,14 +249,14 @@ h1 {
 } 
 
 h2 {
-  font-size: 23px;
+  font-size: 26px;
   font-weight: lighter;
   color: #362;
-  margin-bottom: 8px;
+  margin-bottom: 16px;
 } 
 
 h3 {
-  font-size: 20px;
+  font-size: 23px;
   font-weight: lighter;
   color: #362;
   margin-bottom: 8px;
@@ -311,6 +313,7 @@ dl dt {
 }
 
 footer {
+  font-family:"HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background: transparent url('../images/hr.png') 0 0 no-repeat;
   margin-top: 40px;
   padding-top: 20px;
