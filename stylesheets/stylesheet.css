@@ -88,7 +88,6 @@ header h1 {
 }
 
 #container {
-  background: transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
   min-height: 595px;
 }
 
@@ -249,7 +248,7 @@ h1 {
 } 
 
 h2 {
-  font-size: 26px;
+  font-size: 29px;
   font-weight: lighter;
   color: #362;
   margin-bottom: 16px;
